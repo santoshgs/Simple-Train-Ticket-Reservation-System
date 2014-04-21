@@ -1,3 +1,8 @@
+/*
+	Credits to the original author. I'm not sure where I got this code from.
+*/
+
+
 import java.io.*;
 import java.util.jar.*;
 class OnlyExt implements FilenameFilter{
